@@ -1,10 +1,6 @@
-* {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-}
-
 body { 
     background-color: rgb(81, 81, 243);
+    font-family: verdana ;
 
 }
 
@@ -12,6 +8,60 @@ main {
     background-color: rgb(0, 247, 255);
     width: 500px;
     margin: auto;
-    padding: 10px;
+    padding: 100px ;
     box-shadow: 3px 3px 5px rgb(245, 143, 9);
+    border: 3px solid #000;
 }
+
+#title, subtitle, 
+
+.post_title {
+    color: blue;
+    text-transform: uppercase;
+}
+
+a{ 
+    text-decoration: line-through;
+    color: ;
+}
+
+.logo1 {
+    border: 1px solid #505050;
+    border-radius: 50px;
+}
+
+.logo2 {
+    border: 1px solid #505050;
+    border-radius: 150px;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.post {
+    background: brown;
+    padding: 15px;
+    text-align: justify;
+    font-trans
+}
+
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+footer {
+    padding-left: 300px;
+}
+
+.contacts_list {
+    list-style-type: none;
+
+}
+
+.contacts_list li a {
+    text-decoration: none;
+}
+
